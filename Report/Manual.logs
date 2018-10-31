@@ -1,36 +1,36 @@
-09/10/2018 10:14:37 flightReservation Opening Application Using URL :http://newtours.demoaut.com
-09/10/2018 10:14:39 flightReservation Opened Application Using URL :http://newtours.demoaut.com
-09/10/2018 10:14:39 flightReservation Verifying Title 'Welcome: Mercury Tours'
-09/10/2018 10:14:39 flightReservation Verified Title 'Welcome: Mercury Tours'
-09/10/2018 10:14:39 flightReservation Entering 'mercury' in the 'UserName' edit field
-09/10/2018 10:14:39 flightReservation Entered 'mercury' in the 'UserName' edit field
-09/10/2018 10:14:39 flightReservation Entering 'mercury' in the 'Password' edit field
-09/10/2018 10:14:40 flightReservation Entered 'mercury' in the 'Password' edit field
-09/10/2018 10:14:40 flightReservation Clicking on 'Sign-In'
-09/10/2018 10:15:07 flightReservation Clicked on 'Sign-In'
-09/10/2018 10:15:07 flightReservation Verifying element : 'OneWay'
-09/10/2018 10:15:07 flightReservation Verified element : 'OneWay'
-09/10/2018 10:15:07 flightReservation Clicking on 'OneWay'
-09/10/2018 10:15:07 flightReservation Clicked on 'OneWay'
-09/10/2018 10:15:07 flightReservation Selecting 'London' from 'DepartureFrom' drop down
-09/10/2018 10:15:08 flightReservation Selected 'London' from 'DepartureFrom' drop down
-09/10/2018 10:15:08 flightReservation Selecting 'Frankfurt' from 'ArrivalTo' drop down
-09/10/2018 10:15:08 flightReservation Selected 'Frankfurt' from 'ArrivalTo' drop down
-09/10/2018 10:15:08 flightReservation Clicking on 'First'
-09/10/2018 10:15:08 flightReservation Clicked on 'First'
-09/10/2018 10:15:08 flightReservation Selecting 'Unified Airlines' from 'AirlinePreference' drop down
-09/10/2018 10:15:08 flightReservation Selected 'Unified Airlines' from 'AirlinePreference' drop down
-09/10/2018 10:15:08 flightReservation Clicking on 'FindFlights'
-09/10/2018 10:15:09 flightReservation Clicked on 'FindFlights'
-09/10/2018 10:15:09 flightReservation Clicking on 'ReserveFlights'
-09/10/2018 10:15:10 flightReservation Clicked on 'ReserveFlights'
-09/10/2018 10:15:10 flightReservation Entering 'Rajendra' in the 'FirstName' edit field
-09/10/2018 10:15:10 flightReservation Entered 'Rajendra' in the 'FirstName' edit field
-09/10/2018 10:15:10 flightReservation Entering 'Mahapatra' in the 'LastName' edit field
-09/10/2018 10:15:10 flightReservation Entered 'Mahapatra' in the 'LastName' edit field
-09/10/2018 10:15:10 flightReservation Entering '342876543897565' in the 'CreditNumber' edit field
-09/10/2018 10:15:11 flightReservation Entered '342876543897565' in the 'CreditNumber' edit field
-09/10/2018 10:15:11 flightReservation Clicking on 'BuyFlights'
-09/10/2018 10:15:12 flightReservation Clicked on 'BuyFlights'
-09/10/2018 10:15:12 flightReservation Verifying Text 'itinerary has been booked!'
-09/10/2018 10:15:12 flightReservation Verified Text 'itinerary has been booked!'
+31/10/2018 09:57:20 flightReservation Opening Application Using URL :http://newtours.demoaut.com
+31/10/2018 09:57:23 flightReservation Opened Application Using URL :http://newtours.demoaut.com
+31/10/2018 09:57:23 flightReservation Verifying Title 'Welcome: Mercury Tours'
+31/10/2018 09:57:23 flightReservation Verified Title 'Welcome: Mercury Tours'
+31/10/2018 09:57:23 flightReservation Entering 'mercury' in the 'UserName' edit field
+31/10/2018 09:57:23 flightReservation Entered 'mercury' in the 'UserName' edit field
+31/10/2018 09:57:23 flightReservation Entering 'mercury' in the 'Password' edit field
+31/10/2018 09:57:23 flightReservation Entered 'mercury' in the 'Password' edit field
+31/10/2018 09:57:23 flightReservation Clicking on 'Sign-In'
+31/10/2018 09:57:28 flightReservation Clicked on 'Sign-In'
+31/10/2018 09:57:28 flightReservation Verifying element : 'OneWay'
+31/10/2018 09:57:29 flightReservation Verified element : 'OneWay'
+31/10/2018 09:57:29 flightReservation Clicking on 'OneWay'
+31/10/2018 09:57:29 flightReservation Clicked on 'OneWay'
+31/10/2018 09:57:29 flightReservation Selecting 'London' from 'DepartureFrom' drop down
+31/10/2018 09:57:29 flightReservation Selected 'London' from 'DepartureFrom' drop down
+31/10/2018 09:57:29 flightReservation Selecting 'Frankfurt' from 'ArrivalTo' drop down
+31/10/2018 09:57:29 flightReservation Selected 'Frankfurt' from 'ArrivalTo' drop down
+31/10/2018 09:57:29 flightReservation Clicking on 'First'
+31/10/2018 09:57:29 flightReservation Clicked on 'First'
+31/10/2018 09:57:29 flightReservation Selecting 'Unified Airlines' from 'AirlinePreference' drop down
+31/10/2018 09:57:29 flightReservation Selected 'Unified Airlines' from 'AirlinePreference' drop down
+31/10/2018 09:57:29 flightReservation Clicking on 'FindFlights'
+31/10/2018 09:57:30 flightReservation Clicked on 'FindFlights'
+31/10/2018 09:57:30 flightReservation Clicking on 'ReserveFlights'
+31/10/2018 09:57:31 flightReservation Clicked on 'ReserveFlights'
+31/10/2018 09:57:31 flightReservation Entering 'Rajendra' in the 'FirstName' edit field
+31/10/2018 09:57:31 flightReservation Entered 'Rajendra' in the 'FirstName' edit field
+31/10/2018 09:57:31 flightReservation Entering 'Mahapatra' in the 'LastName' edit field
+31/10/2018 09:57:32 flightReservation Entered 'Mahapatra' in the 'LastName' edit field
+31/10/2018 09:57:32 flightReservation Entering '342876543897565' in the 'CreditNumber' edit field
+31/10/2018 09:57:32 flightReservation Entered '342876543897565' in the 'CreditNumber' edit field
+31/10/2018 09:57:32 flightReservation Clicking on 'BuyFlights'
+31/10/2018 09:57:33 flightReservation Clicked on 'BuyFlights'
+31/10/2018 09:57:33 flightReservation Verifying Text 'itinerary has been booked!'
+31/10/2018 09:57:33 flightReservation Verified Text 'itinerary has been booked!'
