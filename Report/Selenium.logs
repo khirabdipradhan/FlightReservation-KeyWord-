@@ -1,36 +1,36 @@
-09:57:20,564  INFO flightReservation<strong>{1}</strong>:24 - Opening Application Using URL :http://newtours.demoaut.com
-09:57:23,196  INFO flightReservation<strong>{1}</strong>:26 - Opened Application Using URL :http://newtours.demoaut.com
-09:57:23,312  INFO flightReservation<strong>{1}</strong>:51 - Verifying Title 'Welcome: Mercury Tours'
-09:57:23,320  INFO flightReservation<strong>{1}</strong>:59 - Verified Title 'Welcome: Mercury Tours'
-09:57:23,324  INFO flightReservation<strong>{1}</strong>:29 - Entering 'mercury' in the 'UserName' edit field
-09:57:23,588  INFO flightReservation<strong>{1}</strong>:33 - Entered 'mercury' in the 'UserName' edit field
-09:57:23,588  INFO flightReservation<strong>{1}</strong>:29 - Entering 'mercury' in the 'Password' edit field
-09:57:23,697  INFO flightReservation<strong>{1}</strong>:33 - Entered 'mercury' in the 'Password' edit field
-09:57:23,701  INFO flightReservation<strong>{1}</strong>:36 - Clicking on 'Sign-In'
-09:57:28,556  INFO flightReservation<strong>{1}</strong>:40 - Clicked on 'Sign-In'
-09:57:28,560  INFO flightReservation<strong>{1}</strong>:73 - Verifying element : 'OneWay'
-09:57:29,219  INFO flightReservation<strong>{1}</strong>:82 - Verified element : 'OneWay'
-09:57:29,231  INFO flightReservation<strong>{1}</strong>:36 - Clicking on 'OneWay'
-09:57:29,305  INFO flightReservation<strong>{1}</strong>:40 - Clicked on 'OneWay'
-09:57:29,305  INFO flightReservation<strong>{1}</strong>:43 - Selecting 'London' from 'DepartureFrom' drop down
-09:57:29,504  INFO flightReservation<strong>{1}</strong>:48 - Selected 'London' from 'DepartureFrom' drop down
-09:57:29,508  INFO flightReservation<strong>{1}</strong>:43 - Selecting 'Frankfurt' from 'ArrivalTo' drop down
-09:57:29,637  INFO flightReservation<strong>{1}</strong>:48 - Selected 'Frankfurt' from 'ArrivalTo' drop down
-09:57:29,637  INFO flightReservation<strong>{1}</strong>:36 - Clicking on 'First'
-09:57:29,729  INFO flightReservation<strong>{1}</strong>:40 - Clicked on 'First'
-09:57:29,733  INFO flightReservation<strong>{1}</strong>:43 - Selecting 'Unified Airlines' from 'AirlinePreference' drop down
-09:57:29,858  INFO flightReservation<strong>{1}</strong>:48 - Selected 'Unified Airlines' from 'AirlinePreference' drop down
-09:57:29,862  INFO flightReservation<strong>{1}</strong>:36 - Clicking on 'FindFlights'
-09:57:30,629  INFO flightReservation<strong>{1}</strong>:40 - Clicked on 'FindFlights'
-09:57:30,633  INFO flightReservation<strong>{1}</strong>:36 - Clicking on 'ReserveFlights'
-09:57:31,722  INFO flightReservation<strong>{1}</strong>:40 - Clicked on 'ReserveFlights'
-09:57:31,731  INFO flightReservation<strong>{1}</strong>:29 - Entering 'Rajendra' in the 'FirstName' edit field
-09:57:31,919  INFO flightReservation<strong>{1}</strong>:33 - Entered 'Rajendra' in the 'FirstName' edit field
-09:57:31,923  INFO flightReservation<strong>{1}</strong>:29 - Entering 'Mahapatra' in the 'LastName' edit field
-09:57:32,083  INFO flightReservation<strong>{1}</strong>:33 - Entered 'Mahapatra' in the 'LastName' edit field
-09:57:32,090  INFO flightReservation<strong>{1}</strong>:29 - Entering '342876543897565' in the 'CreditNumber' edit field
-09:57:32,291  INFO flightReservation<strong>{1}</strong>:33 - Entered '342876543897565' in the 'CreditNumber' edit field
-09:57:32,295  INFO flightReservation<strong>{1}</strong>:36 - Clicking on 'BuyFlights'
-09:57:33,301  INFO flightReservation<strong>{1}</strong>:40 - Clicked on 'BuyFlights'
-09:57:33,301  INFO flightReservation<strong>{1}</strong>:63 - Verifying Text 'itinerary has been booked!'
-09:57:33,317  INFO flightReservation<strong>{1}</strong>:70 - Verified Text 'itinerary has been booked!'
+10:04:40,052  INFO flightReservation<strong>{1}</strong>:24 - Opening Application Using URL :http://newtours.demoaut.com
+10:04:43,178  INFO flightReservation<strong>{1}</strong>:26 - Opened Application Using URL :http://newtours.demoaut.com
+10:04:43,190  INFO flightReservation<strong>{1}</strong>:51 - Verifying Title 'Welcome: Mercury Tours'
+10:04:43,202  INFO flightReservation<strong>{1}</strong>:59 - Verified Title 'Welcome: Mercury Tours'
+10:04:43,202  INFO flightReservation<strong>{1}</strong>:29 - Entering 'mercury' in the 'UserName' edit field
+10:04:43,338  INFO flightReservation<strong>{1}</strong>:33 - Entered 'mercury' in the 'UserName' edit field
+10:04:43,342  INFO flightReservation<strong>{1}</strong>:29 - Entering 'mercury' in the 'Password' edit field
+10:04:43,462  INFO flightReservation<strong>{1}</strong>:33 - Entered 'mercury' in the 'Password' edit field
+10:04:43,466  INFO flightReservation<strong>{1}</strong>:36 - Clicking on 'Sign-In'
+10:04:50,787  INFO flightReservation<strong>{1}</strong>:40 - Clicked on 'Sign-In'
+10:04:50,795  INFO flightReservation<strong>{1}</strong>:73 - Verifying element : 'OneWay'
+10:04:50,852  INFO flightReservation<strong>{1}</strong>:82 - Verified element : 'OneWay'
+10:04:50,864  INFO flightReservation<strong>{1}</strong>:36 - Clicking on 'OneWay'
+10:04:50,956  INFO flightReservation<strong>{1}</strong>:40 - Clicked on 'OneWay'
+10:04:50,957  INFO flightReservation<strong>{1}</strong>:43 - Selecting 'London' from 'DepartureFrom' drop down
+10:04:51,083  INFO flightReservation<strong>{1}</strong>:48 - Selected 'London' from 'DepartureFrom' drop down
+10:04:51,087  INFO flightReservation<strong>{1}</strong>:43 - Selecting 'Frankfurt' from 'ArrivalTo' drop down
+10:04:51,241  INFO flightReservation<strong>{1}</strong>:48 - Selected 'Frankfurt' from 'ArrivalTo' drop down
+10:04:51,245  INFO flightReservation<strong>{1}</strong>:36 - Clicking on 'First'
+10:04:51,365  INFO flightReservation<strong>{1}</strong>:40 - Clicked on 'First'
+10:04:51,365  INFO flightReservation<strong>{1}</strong>:43 - Selecting 'Unified Airlines' from 'AirlinePreference' drop down
+10:04:51,515  INFO flightReservation<strong>{1}</strong>:48 - Selected 'Unified Airlines' from 'AirlinePreference' drop down
+10:04:51,519  INFO flightReservation<strong>{1}</strong>:36 - Clicking on 'FindFlights'
+10:04:52,565  INFO flightReservation<strong>{1}</strong>:40 - Clicked on 'FindFlights'
+10:04:52,565  INFO flightReservation<strong>{1}</strong>:36 - Clicking on 'ReserveFlights'
+10:04:53,867  INFO flightReservation<strong>{1}</strong>:40 - Clicked on 'ReserveFlights'
+10:04:53,867  INFO flightReservation<strong>{1}</strong>:29 - Entering 'Rajendra' in the 'FirstName' edit field
+10:04:54,048  INFO flightReservation<strong>{1}</strong>:33 - Entered 'Rajendra' in the 'FirstName' edit field
+10:04:54,048  INFO flightReservation<strong>{1}</strong>:29 - Entering 'Mahapatra' in the 'LastName' edit field
+10:04:54,204  INFO flightReservation<strong>{1}</strong>:33 - Entered 'Mahapatra' in the 'LastName' edit field
+10:04:54,204  INFO flightReservation<strong>{1}</strong>:29 - Entering '342876543897565' in the 'CreditNumber' edit field
+10:04:54,404  INFO flightReservation<strong>{1}</strong>:33 - Entered '342876543897565' in the 'CreditNumber' edit field
+10:04:54,408  INFO flightReservation<strong>{1}</strong>:36 - Clicking on 'BuyFlights'
+10:04:55,430  INFO flightReservation<strong>{1}</strong>:40 - Clicked on 'BuyFlights'
+10:04:55,430  INFO flightReservation<strong>{1}</strong>:63 - Verifying Text 'itinerary has been booked!'
+10:04:55,446  INFO flightReservation<strong>{1}</strong>:70 - Verified Text 'itinerary has been booked!'
