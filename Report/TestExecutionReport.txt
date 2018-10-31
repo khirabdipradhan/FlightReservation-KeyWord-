@@ -1,0 +1,216 @@
+************************************************
+Project Name: FlightReservation
+Browser: chrome
+Operating System: Windows 7
+Java Version: 1.8.0_181
+User: NTS
+Host: NTS-PC
+Date of Execution: 03-10-2018 10:13:18
+************************************************
+====================================
+Test Case : Launch Flight Reservation Application
+====================================
+GO TO URL------URL------Pass
+VERIFY TITLE---------Welcome: Mercury Tours---Pass
+====================================
+Test Case : Login To Flight Reservation
+====================================
+SET---NAME---UserName---mercury---Pass
+SET---NAME---Password---mercury---Pass
+CLICK---NAME---Sign-In------Pass
+VERIFY ELEMENT---XPATH---OneWay------Pass
+====================================
+Test Case : Book A Ticket After Entering Valid Flight And Personal Details
+====================================
+CLICK---XPATH---OneWay------Pass
+SELECT---NAME---DepartureFrom---London---Pass
+SELECT---NAME---ArrivalTo---Frankfurt---Pass
+CLICK---XPATH---First------Pass
+SELECT---NAME---AirlinePreference---Unified Airlines---Pass
+CLICK---NAME---FindFlights------Pass
+CLICK---NAME---ReserveFlights------Pass
+SET---NAME---FirstName---Rajendra---Pass
+SET---NAME---LastName---Mahapatra---Pass
+SET---NAME---CreditNumber---342876543897565---Pass
+CLICK---NAME---BuyFlights------Pass
+VERIFY TEXT---------itinerary has been booked!---Pass
+************************************************
+Project Name: FlightReservation
+Browser: chrome
+Operating System: Windows 7
+Java Version: 1.8.0_181
+User: NTS
+Host: NTS-PC
+Date of Execution: 03-10-2018 10:24:12
+************************************************
+====================================
+Test Case : Launch Flight Reservation Application
+====================================
+GO TO URL------URL------Pass
+VERIFY TITLE---------Welcome: Mercury Tours---Pass
+====================================
+Test Case : Login To Flight Reservation
+====================================
+SET---NAME---UserName---mercury---Pass
+SET---NAME---Password---mercury---Pass
+CLICK---NAME---Sign-In------Pass
+VERIFY ELEMENT---XPATH---OneWay------Pass
+====================================
+Test Case : Book A Ticket After Entering Valid Flight And Personal Details
+====================================
+CLICK---XPATH---OneWay------Pass
+SELECT---NAME---DepartureFrom---London---Pass
+SELECT---NAME---ArrivalTo---Frankfurt---Pass
+CLICK---XPATH---First------Pass
+SELECT---NAME---AirlinePreference---Unified Airlines---Pass
+CLICK---NAME---FindFlights------Pass
+CLICK---NAME---ReserveFlights------Pass
+SET---NAME---FirstName---Rajendra---Pass
+SET---NAME---LastName---Mahapatra---Pass
+SET---NAME---CreditNumber---342876543897565---Pass
+CLICK---NAME---BuyFlights------Pass
+VERIFY TEXT---------itinerary has been booked!---Pass
+************************************************
+Project Name: FlightReservation
+Browser: chrome
+Operating System: Windows 7
+Java Version: 1.8.0_181
+User: NTS
+Host: NTS-PC
+Date of Execution: 03-10-2018 10:33:34
+************************************************
+====================================
+Test Case : Launch Flight Reservation Application
+====================================
+GO TO URL------URL------Pass
+VERIFY TITLE---------Welcome: Mercury Tours---Pass
+====================================
+Test Case : Login To Flight Reservation
+====================================
+SET---NAME---UserName---mercury---Pass
+SET---NAME---Password---mercury---Pass
+CLICK---NAME---Sign-In------Pass
+VERIFY ELEMENT---XPATH---OneWay------Pass
+====================================
+Test Case : Book A Ticket After Entering Valid Flight And Personal Details
+====================================
+CLICK---XPATH---OneWay------Pass
+SELECT---NAME---DepartureFrom---London---Pass
+SELECT---NAME---ArrivalTo---Frankfurt---Pass
+CLICK---XPATH---First------Pass
+SELECT---NAME---AirlinePreference---Unified Airlines---Pass
+CLICK---NAME---FindFlights------Pass
+CLICK---NAME---ReserveFlights------Pass
+SET---NAME---FirstName---Rajendra---Pass
+SET---NAME---LastName---Mahapatra---Pass
+SET---NAME---CreditNumber---342876543897565---Pass
+CLICK---NAME---BuyFlights------Pass
+VERIFY TEXT---------itinerary has been booked!---Pass
+************************************************
+Project Name: FlightReservation
+Browser: chrome
+Operating System: Windows 7
+Java Version: 1.8.0_181
+User: NTS
+Host: NTS-PC
+Date of Execution: 03-10-2018 10:36:06
+************************************************
+====================================
+Test Case : Launch Flight Reservation Application
+====================================
+GO TO URL------URL------Pass
+VERIFY TITLE---------Welcome: Mercury Tours---Pass
+====================================
+Test Case : Login To Flight Reservation
+====================================
+SET---NAME---UserName---mercury---Pass
+SET---NAME---Password---mercury---Pass
+CLICK---NAME---Sign-In------Pass
+VERIFY ELEMENT---XPATH---OneWay------Pass
+====================================
+Test Case : Book A Ticket After Entering Valid Flight And Personal Details
+====================================
+CLICK---XPATH---OneWay------Pass
+SELECT---NAME---DepartureFrom---London---Pass
+SELECT---NAME---ArrivalTo---Frankfurt---Pass
+CLICK---XPATH---First------Pass
+SELECT---NAME---AirlinePreference---Unified Airlines---Pass
+CLICK---NAME---FindFlights------Pass
+CLICK---NAME---ReserveFlights------Pass
+SET---NAME---FirstName---Rajendra---Pass
+SET---NAME---LastName---Mahapatra---Pass
+SET---NAME---CreditNumber---342876543897565---Pass
+CLICK---NAME---BuyFlights------Pass
+VERIFY TEXT---------itinerary has been booked!---Pass
+************************************************
+Project Name: FlightReservation
+Browser: chrome
+Operating System: Windows 7
+Java Version: 1.8.0_181
+User: NTS
+Host: NTS-PC
+Date of Execution: 05-10-2018 08:35:17
+************************************************
+====================================
+Test Case : Launch Flight Reservation Application
+====================================
+GO TO URL------URL------Pass
+VERIFY TITLE---------Welcome: Mercury Tours---Pass
+====================================
+Test Case : Login To Flight Reservation
+====================================
+SET---NAME---UserName---mercury---Pass
+SET---NAME---Password---mercury---Pass
+CLICK---NAME---Sign-In------Pass
+VERIFY ELEMENT---XPATH---OneWay------Pass
+====================================
+Test Case : Book A Ticket After Entering Valid Flight And Personal Details
+====================================
+CLICK---XPATH---OneWay------Pass
+SELECT---NAME---DepartureFrom---London---Pass
+SELECT---NAME---ArrivalTo---Frankfurt---Pass
+CLICK---XPATH---First------Pass
+SELECT---NAME---AirlinePreference---Unified Airlines---Pass
+CLICK---NAME---FindFlights------Pass
+CLICK---NAME---ReserveFlights------Pass
+SET---NAME---FirstName---Rajendra---Pass
+SET---NAME---LastName---Mahapatra---Pass
+SET---NAME---CreditNumber---342876543897565---Pass
+CLICK---NAME---BuyFlights------Pass
+VERIFY TEXT---------itinerary has been booked!---Pass
+************************************************
+Project Name: FlightReservation
+Browser: chrome
+Operating System: Windows 10
+Java Version: 1.8.0_101
+User: nEW u
+Host: BT1603013
+Date of Execution: 09-10-2018 10:14:36
+************************************************
+====================================
+Test Case : Launch Flight Reservation Application
+====================================
+GO TO URL------URL------Pass
+VERIFY TITLE---------Welcome: Mercury Tours---Pass
+====================================
+Test Case : Login To Flight Reservation
+====================================
+SET---NAME---UserName---mercury---Pass
+SET---NAME---Password---mercury---Pass
+CLICK---NAME---Sign-In------Pass
+VERIFY ELEMENT---XPATH---OneWay------Pass
+====================================
+Test Case : Book A Ticket After Entering Valid Flight And Personal Details
+====================================
+CLICK---XPATH---OneWay------Pass
+SELECT---NAME---DepartureFrom---London---Pass
+SELECT---NAME---ArrivalTo---Frankfurt---Pass
+CLICK---XPATH---First------Pass
+SELECT---NAME---AirlinePreference---Unified Airlines---Pass
+CLICK---NAME---FindFlights------Pass
+CLICK---NAME---ReserveFlights------Pass
+SET---NAME---FirstName---Rajendra---Pass
+SET---NAME---LastName---Mahapatra---Pass
+SET---NAME---CreditNumber---342876543897565---Pass
+CLICK---NAME---BuyFlights------Pass
+VERIFY TEXT---------itinerary has been booked!---Pass
